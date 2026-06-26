@@ -1,0 +1,16 @@
+<testsuites id="" name="" tests="6" failures="0" skipped="0" errors="0" time="13.955697">
+<testsuite name="asana-board.spec.ts" timestamp="2026-06-26T20:57:38.501Z" hostname="chromium" tests="6" failures="0" skipped="0" time="12.372" errors="0">
+<testcase name="Asana-like board task validation - data-driven suite › TC-001: Implement user authentication is in Web Application &gt; To Do with expected tags" classname="asana-board.spec.ts" time="6.441">
+</testcase>
+<testcase name="Asana-like board task validation - data-driven suite › TC-002: Fix navigation bug is in Web Application &gt; To Do with expected tags" classname="asana-board.spec.ts" time="1.09">
+</testcase>
+<testcase name="Asana-like board task validation - data-driven suite › TC-003: Design system updates is in Web Application &gt; In Progress with expected tags" classname="asana-board.spec.ts" time="0.947">
+</testcase>
+<testcase name="Asana-like board task validation - data-driven suite › TC-004: Push notification system is in Mobile Application &gt; To Do with expected tags" classname="asana-board.spec.ts" time="1.101">
+</testcase>
+<testcase name="Asana-like board task validation - data-driven suite › TC-005: Offline mode is in Mobile Application &gt; In Progress with expected tags" classname="asana-board.spec.ts" time="1.435">
+</testcase>
+<testcase name="Asana-like board task validation - data-driven suite › TC-006: App icon design is in Mobile Application &gt; Done with expected tags" classname="asana-board.spec.ts" time="1.358">
+</testcase>
+</testsuite>
+</testsuites>
