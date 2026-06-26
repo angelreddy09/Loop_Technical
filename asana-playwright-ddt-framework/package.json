@@ -1,0 +1,18 @@
+{
+  "name": "asana-playwright-ddt-framework",
+  "version": "1.0.0",
+  "description": "Data-driven Playwright TypeScript test suite for the Asana-like demo app assessment.",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report",
+    "install:browsers": "playwright install --with-deps chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
+}
